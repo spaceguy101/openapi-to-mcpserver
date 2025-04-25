@@ -1,6 +1,6 @@
 # OpenAPI to MCP
 
-Converts an OpenAPI specification file into an MCP (Machine Communication Protocol) compatible server that supports both modern Streamable HTTP and legacy SSE (Server-Sent Events) transports.
+Converts an OpenAPI specification file into an MCP server that can be used to interact with existing web APIs described by OpenAPI specifications.
 
 This allows AI agents or other clients that understand MCP to interact with existing web APIs described by OpenAPI specifications.
 
